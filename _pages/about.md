@@ -1,13 +1,12 @@
 ---
 ​---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-​---
 ---
 
 About me
@@ -28,7 +27,7 @@ IJCAI 2022.
 
 - [Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs](https://arxiv.org/abs/2203.16939) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian
-ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a href="https://arxiv.org/pdf/2203.16939.pdf">[paper]</a> <a href="https://github.com/J-zin/SNUH">[code]</a> <a href="https://j-zin.github.io/files/acl_2021_slides.pdf">[slides]</a>
+ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a href="https://arxiv.org/pdf/2203.16939.pdf">[paper]</a> 
 
 Research Experience
 ------
