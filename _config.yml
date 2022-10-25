@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijing Ou"
+title                    : "Jiying Zhang"
 title_separator          : "-"
-name                     : &name "Zijing Ou"
-description              : &description "Zijing Ou's academic site"
+name                     : &name "Jiying Zhang"
+description              : &description "Jiying Zhang's academic site"
 url                      : https://youjibiying.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youjibiying.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijing Ou"
+  name             : "Jiying Zhang"
   avatar           : "jiyingzhang.jpeg"
   bio              : "PhD student @ Imperial College London"
   location         : "London, UK"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JzinOu"
+  twitter          : "Jiying_zhang"
   vine             :
   weibo            :
   xing             :
