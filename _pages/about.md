@@ -15,7 +15,7 @@ I am a Third-year master student at [Tsinghua University](https://www.tsinghua.e
 My research interests focus on, but not limited to graph neural networks and machine learning. These days I am interested in diffusion models, optimal transport and graph generative models. 
 Feel free to contact me if you are interested in my research.
 
-I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).
+<!---I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).--->
 
 Publications
 ------
