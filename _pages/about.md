@@ -20,7 +20,7 @@ I was extremely fortunate to have many wonderful mentors in my graduate years. I
 Publications
 ------
 
-check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
+Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
@@ -36,7 +36,7 @@ ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a hre
 ICASSP 2022 (2022 IEEE International Conference on Acoustics, Speech and Signal Processing) <a href="https://arxiv.org/pdf/2106.06666.pdf">[paper]</a>
 
 - [GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/abs/2208.09126) <br>
- Guanzi Chen*, **Jiying Zhang**\*, Xi Xiao, Yang Li (* equal contribution) <br>
+ Guanzi Chen\*, **Jiying Zhang**\*, Xi Xiao, Yang Li (\* equal contribution) <br>
 ICML 2022 Workshop on Principles of Distribution Shift . <a href="https://arxiv.org/pdf/2208.09126.pdf">[paper]</a> 
 
 - [Diversified Multiscale Graph Learning with Graph Self-Correction](https://openreview.net/forum?id=S5IEoV-JTg9) <br>
