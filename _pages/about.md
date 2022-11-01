@@ -37,11 +37,16 @@ ICASSP 2022 (2022 IEEE International Conference on Acoustics, Speech and Signal 
 
 - [GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/abs/2208.09126) <br>
  Guanzi Chen\*, **Jiying Zhang**\*, Xi Xiao, Yang Li (\* equal contribution) <br>
-ICML 2022 Workshop on Principles of Distribution Shift . <a href="https://arxiv.org/pdf/2208.09126.pdf">[paper]</a> 
+ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.org/pdf/2208.09126.pdf">[paper]</a> 
+
+- [A Simple Hypergraph Kernel Convolution based on
+Discounted Markov Diffusion Process](https://arxiv.org/abs/2210.16884) <br>
+ Fuyang Li\*, **Jiying Zhang**\*, Xi Xiao, Bin Zhang, Dijun Luo (\* equal contribution) <br>
+ICLR 2022 Workshop on Geometrical and Topological Representation Learning. <a href="https://arxiv.org/pdf/2210.16884.pdf">[paper]</a>
 
 - [Diversified Multiscale Graph Learning with Graph Self-Correction](https://openreview.net/forum?id=S5IEoV-JTg9) <br>
  Yuzhao Chen, Yatao Bian, **Jiying Zhang**, Xi Xiao, Tingyang Xu, Yu Rong <br>
-ICLR 2022 Workshop on Geometrical and Topological Representation Learning. <a href="https://arxiv.org/pdf/2103.09754.pdf">[paper]</a>
+ NeurIPS 2022 Workshop (New Frontiers in Graph Learning). <a href="https://arxiv.org/pdf/2103.09754.pdf">[paper]</a>
 
 - [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI-Under_review_A_Unified_Random_Walk.pdf) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
