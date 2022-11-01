@@ -27,7 +27,7 @@ Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAA
     IJCAI 2022 (International Joint Conferences on Artificial Intelligence Organization 2022).
 <a href="https://arxiv.org/pdf/2203.10453.pdf">[paper]</a>  <a href="https://github.com/youjibiying/gtot-tuning">[code]</a>
 
-- [Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs](https://arxiv.org/abs/2203.16939) <br>
+- [Hypergraph Convolutional Networks via Equivalency Between Hypergraphs and Undirected Graphs](https://arxiv.org/abs/2203.16939) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
 ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a href="https://arxiv.org/pdf/2203.16939.pdf">[paper]</a> 
 
@@ -39,8 +39,7 @@ ICASSP 2022 (2022 IEEE International Conference on Acoustics, Speech and Signal 
  Guanzi Chen\*, **Jiying Zhang**\*, Xi Xiao, Yang Li (\* equal contribution) <br>
 ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.org/pdf/2208.09126.pdf">[paper]</a> 
 
-- [A Simple Hypergraph Kernel Convolution based on
-Discounted Markov Diffusion Process](https://arxiv.org/abs/2210.16884) <br>
+- [A Simple Hypergraph Kernel Convolution Based on Discounted Markov Diffusion Process](https://arxiv.org/abs/2210.16884) <br>
  Fuyang Li\*, **Jiying Zhang**\*, Xi Xiao, Bin Zhang, Dijun Luo (\* equal contribution) <br>
 ICLR 2022 Workshop on Geometrical and Topological Representation Learning. <a href="https://arxiv.org/pdf/2210.16884.pdf">[paper]</a>
 
