@@ -33,7 +33,8 @@ ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a hre
 
 - [Learnable Hypergraph Laplacian for Hypergraph Learning](https://ieeexplore.ieee.org/abstract/document/9747687/) <br>
  **Jiying Zhang**, Yuzhao Chen, Xi Xiao, Runiu Lu, Shu-Tao Xia <br>
-ICASSP 2022 (2022 IEEE International Conference on Acoustics, Speech and Signal Processing) <a href="https://arxiv.org/pdf/2106.06666.pdf">[paper]</a>
+ICASSP 2022 (2022 IEEE International Conference on Acoustics, Speech and Signal Processing) 
+<a href="https://arxiv.org/pdf/2106.06666.pdf">[paper]</a> <a href="https://github.com/youjibiying/HERALD">[code]</a>
 
 - [GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/abs/2208.09126) <br>
  Guanzi Chen\*, **Jiying Zhang**\*, Xi Xiao, Yang Li (\* equal contribution) <br>
