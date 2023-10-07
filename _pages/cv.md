@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in School of Mathematics, South China University of Technology, 2020
-
+* Master in Computer Technology, Tsinghua University, 2023
 
 <!--
 Work experience
