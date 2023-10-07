@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am a Third-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) (2020~), co-advised by Xi Xiao and Shu-Tao Xia. 
-<!---Prior to that, received my bachelor's degree from South China University of Technology in 2020. ---> 
-My research interests focus on, but not limited to graph neural networks and machine learning. These days I am interested in diffusion models, optimal transport and graph generative models. 
+I am an Assistant Researcher at [IDEA](https://www.idea.edu.cn/), working with [Yu LI](https://yu-li.github.io/) and Zijing Liu.
+Prior to that, I received my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, co-advised by Xi Xiao and Shu-Tao Xia. 
+My research interests focus on, but not limited to graph/hypergraph neural networks and machine learning. These days I am interested in diffusion models, AI4Science, and drug discovery. 
 Feel free to contact me if you are interested in my research.
 
 <!---I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).--->
