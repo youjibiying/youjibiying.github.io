@@ -51,7 +51,7 @@ ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.o
 - [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI-Under_review_A_Unified_Random_Walk.pdf) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
 TPAMI Under Review
-- [Subgraph Diffusion for 3D Molecular Representation Learning: Combining Continuous and Discrete]() <br>
+- [Subgraph Diffusion for 3D Molecular Representation Learning: Combining Continuous and Discrete](https://openreview.net/pdf?id=9g8h5HwZMy) <br>
   **Jiying Zhang**, Zijing Liu, Yu Wang, Zhengyang Qi, Yu Li <br>
   Under Review
 
@@ -73,5 +73,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing:  NeurIPS-2022, ICML-2022, ICML-2023, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, ICLR-2024
+- Conference Reviewing:  NeurIPS-2022, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, ICML-2022, ICML-2023, ICML-2024,  ICLR-2024, CVPR-2024
 - Journal Reviewing: TPAMI.
