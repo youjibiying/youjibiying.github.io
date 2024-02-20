@@ -29,7 +29,7 @@ Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAA
 
 - [Hypergraph Convolutional Networks via Equivalency Between Hypergraphs and Undirected Graphs](https://arxiv.org/abs/2203.16939) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
-ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a href="https://arxiv.org/pdf/2203.16939.pdf">[paper]</a> 
+ICML 2022 Workshop (Topology, Algebra, and Geometry in Machine Learning). <a href="https://arxiv.org/pdf/2203.16939.pdf">[paper]</a>  <a href="https://github.com/youjibiying/H-GNNs">[code]</a>
 
 - [Learnable Hypergraph Laplacian for Hypergraph Learning](https://ieeexplore.ieee.org/abstract/document/9747687/) <br>
  **Jiying Zhang**, Yuzhao Chen, Xi Xiao, Runiu Lu, Shu-Tao Xia <br>
