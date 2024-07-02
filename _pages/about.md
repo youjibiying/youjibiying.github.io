@@ -75,5 +75,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing: NeurIPS-24, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024,  ICLR-2024, CVPR-2024, ACMMM-2024.
+- Conference Reviewing: NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024,  ICLR-2024, CVPR-2024, ACMMM-2024.
 - Journal Reviewing: TPAMI.
