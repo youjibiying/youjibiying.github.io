@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am an Assistant Researcher at [IDEA](https://www.idea.edu.cn/), working with [Yu LI](https://yu-li.github.io/) and Zijing Liu.
+I am an Assistant Researcher at [IDEA](https://www.idea.edu.cn/), working with [Yu Li](https://yu-li.github.io/) and Zijing Liu.
 Prior to that, I received my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, co-advised by Xi Xiao and Shu-Tao Xia. 
-My research interests focus on, but not limited to graph/hypergraph neural networks and machine learning. These days I am interested in diffusion models, AI4Science, and drug discovery. 
+My research interests focus on, but are not limited to graph/hypergraph neural networks and machine learning. These days I am interested in diffusion/flow models, AI4Science, and drug discovery. 
 Feel free to contact me if you are interested in my research.
 
 <!---I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).--->
@@ -51,15 +51,17 @@ ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.o
 - [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI-Under_review_A_Unified_Random_Walk.pdf) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
 TPAMI Under Review
-- [Subgraph Diffusion for 3D Molecular Representation Learning: Combining Continuous and Discrete](https://openreview.net/pdf?id=9g8h5HwZMy) <br>
-  **Jiying Zhang**, Zijing Liu, Yu Wang, Zhengyang Qi, Yu Li <br>
-  Under Review
+- [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
+  **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
+  <a href="https://github.com/IDEA-XL/SubgDiff">[code]</a>
 
 
  
 Research Experience
 ------
-
+**IDEA** (2023.07-present)
+- Assistant Researcher
+  
 **Tencent AI Lab** (2021.02 - 2022.08) (The Tencent Rhino-bird Elite Talent Program)
 
 - Research Intern, Machine Learning Group, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
@@ -73,5 +75,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing:  NeurIPS-2022, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, ICML-2022, ICML-2023, ICML-2024,  ICLR-2024, CVPR-2024, ACMMM-2024
+- Conference Reviewing: NeurIPS-24, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024,  ICLR-2024, CVPR-2024, ACMMM-2024.
 - Journal Reviewing: TPAMI.
