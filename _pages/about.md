@@ -22,6 +22,12 @@ Publications
 
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 
+- [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
+  **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
+  NeurIPS 2024
+  <a href="https://github.com/IDEA-XL/SubgDiff">[code]</a>
+  <a href="https://arxiv.org/pdf/2405.05665">[paper]</a>
+  
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
     IJCAI 2022 (International Joint Conferences on Artificial Intelligence Organization 2022).
@@ -51,9 +57,7 @@ ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.o
 - [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI-Under_review_A_Unified_Random_Walk.pdf) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
 TPAMI Under Review
-- [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
-  **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
-  <a href="https://github.com/IDEA-XL/SubgDiff">[code]</a>
+
 
 
  
