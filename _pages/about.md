@@ -24,9 +24,14 @@ Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAA
 
 - [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
   **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
-  NeurIPS 2024
-  <a href="https://github.com/IDEA-XL/SubgDiff">[code]</a>
+  Conference on Neural Information Processing Systems (NeurIPS) 2024
   <a href="https://arxiv.org/pdf/2405.05665">[paper]</a>
+  <a href="https://github.com/IDEA-XL/SubgDiff">[code]</a>
+
+- [Efficient Antibody Structure Refinement Using Energy-Guided SE(3) Flow Matching](https://arxiv.org/abs/2410.16673) <br>
+**Jiying Zhang**, Zijing Liu, Shengyuan Bai, He Cao, Yu Li, Lei Zhang <br>
+IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024 regular paper
+  <a href="https://arxiv.org/pdf/2410.16673">[paper]</a>
   
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
