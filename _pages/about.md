@@ -37,7 +37,7 @@ IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024 regu
   
 - [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI25_A_Unified_Random_Walk__Its_Induced__Laplacians_and__Spectral_Convolutions_for_Deep_Hypergraph_Learning.pdf) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Guanzi Chen, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a>
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI) <a href="https://github.com/youjibiying/GHSC_H-GNNs">[code]</a>
   
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
