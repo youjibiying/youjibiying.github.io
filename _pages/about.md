@@ -23,7 +23,7 @@ Publications
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 - [Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
   Maodong Li\*, **Jiying Zhang**\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
-  
+
 - [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
   **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
   Conference on Neural Information Processing Systems (NeurIPS) 2024
@@ -34,6 +34,10 @@ Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAA
 **Jiying Zhang**, Zijing Liu, Shengyuan Bai, He Cao, Yu Li, Lei Zhang <br>
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024 regular paper
   <a href="https://arxiv.org/pdf/2410.16673">[paper]</a>
+  
+- [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI25_A_Unified_Random_Walk__Its_Induced__Laplacians_and__Spectral_Convolutions_for_Deep_Hypergraph_Learning.pdf) <br>
+ **Jiying Zhang**, Fuyang Li, Xi Xiao, Guanzi Chen, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a>
   
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
@@ -61,9 +65,7 @@ ICML 2022 Workshop on Principles of Distribution Shift. <a href="https://arxiv.o
  Yuzhao Chen, Yatao Bian, **Jiying Zhang**, Xi Xiao, Tingyang Xu, Yu Rong <br>
  ICLR 2022 Workshop on Geometrical and Topological Representation Learning.<a href="https://arxiv.org/pdf/2103.09754.pdf">[paper]</a>
 
-- [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI-Under_review_A_Unified_Random_Walk.pdf) <br>
- **Jiying Zhang**, Fuyang Li, Guanzi Chen, Xi Xiao, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
-TPAMI Under Review
+
 
 
 
