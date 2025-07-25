@@ -80,7 +80,7 @@ Research Experience
 - Research Intern, Machine Learning Group, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
 - Work with: [Yatao Bian](https://yataobian.com/), [Yu Rong](https://www.aminer.cn/profile/yu-rong/5458fe38dabfaeb0fe2b0f81) 
 
-**Tencent AI Lab** (2019.11- 2020.06)
+**Tencent AI Lab** (2019.11- 2020.11)
 
 - Research Intern, Machine Learning Group, <a href="https://ai.tencent.com/ailab/en/index">Tencent AI Lab</a>, Shenzhen, China
 - Work with: Tingyang Xu
