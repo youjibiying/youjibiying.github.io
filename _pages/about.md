@@ -23,6 +23,9 @@ Publications
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 - [Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
   Maodong Li\*, **Jiying Zhang**\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
+  <a href="https://huggingface.co/datasets/SZBL-IDEA/MD">[data\&code]</a>
+  <a href="https://aimm.szbl.ac.cn/database/ddd/">[homepage]</a>
+  
 - [BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642) <br>
 Bin Feng\*, **Jiying Zhang**\*, Xinni Zhang, Zijing Liu, Yu Li (\*equal contribution) <br>
 
@@ -37,9 +40,9 @@ Bin Feng\*, **Jiying Zhang**\*, Xinni Zhang, Zijing Liu, Yu Li (\*equal contribu
 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024 regular paper
   <a href="https://arxiv.org/pdf/2410.16673">[paper]</a>
   
-- [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](http://youjibiying.github.io/files/TPAMI25_A_Unified_Random_Walk__Its_Induced__Laplacians_and__Spectral_Convolutions_for_Deep_Hypergraph_Learning.pdf) <br>
+- [A Unified Random Walk, Its Induced  Laplacians and  Spectral Convolutions for Deep Hypergraph Learning](https://ieeexplore.ieee.org/document/11103747) <br>
  **Jiying Zhang**, Fuyang Li, Xi Xiao, Guanzi Chen, Tingyang Xu, Yu Rong, Junzhou Huang, Yatao Bian <br>
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI) <a href="https://github.com/youjibiying/GHSC_H-GNNs">[code]</a>
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025) <a href="https://github.com/youjibiying/GHSC_H-GNNs">[code]</a>
   
 - [Fine-Tuning Graph Neural Networks via Graph Topology Induced Optimal Transport](https://www.ijcai.org/proceedings/2022/518)  <br>
 **Jiying Zhang**, Xi Xiao, Long-Kai Huang, Yu Rong, Yatao Bian <br>
