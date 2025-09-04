@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am an incoming Ph.D student at [EPFL](https://www.epfl.ch/en/), co-advised by [Prof. Patrick Barth](https://people.epfl.ch/patrick.barth?lang=en) and [Prof. Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I also serve as an Assistant Researcher at [IDEA](https://www.idea.edu.cn/).
+I am a first-year Ph.D student at [EPFL](https://www.epfl.ch/en/), co-advised by [Prof. Patrick Barth](https://people.epfl.ch/patrick.barth?lang=en) and [Prof. Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I also serve as an Assistant Researcher at [IDEA](https://www.idea.edu.cn/).
 Prior to that, I received my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, co-advised by Xi Xiao and Shu-Tao Xia. 
-My research interests focus on, but are not limited to, graph and hypergraph neural networks, as well as generative models. These days, I am interested in protein design and molecular dynamics. 
+My research interests focus on, but are not limited to, generative models and graph neural networks. These days, I am interested in protein design and molecular dynamics. 
 Feel free to contact me if you are interested in my research.
 
 <!---I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).--->
@@ -23,6 +23,8 @@ Publications
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 - [Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
   Maodong Li\*, **Jiying Zhang**\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
+- [BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642) <br>
+Bin Feng\*, **Jiying Zhang**\*, Xinni Zhang, Zijing Liu, Yu Li (\*equal contribution) <br>
 
 - [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
   **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
@@ -88,5 +90,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing: NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, BIBM-2024, ICASSP-2023,2024.
-- Journal Reviewing: TPAMI.
+- Conference Reviewing: NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
+- Journal Reviewing: TPAMI, TBD.
