@@ -21,13 +21,23 @@ Publications
 ------
 
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
+
+- [Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space](https://openreview.net/pdf?id=AwowReRWXI) <br>
+Aditya Sengar, **Jiying Zhang**, Pierre Vandergheynst, Patrick Barth <br>
+The Fourteenth International Conference on Learning Representations (ICLR) 2026
+
+- [BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](https://openreview.net/forum?id=LQDeJk6NOr) <br>
+Bin Feng\*, **Jiying Zhang**\*, Xinni Zhang, Zijing Liu, Yu Li (\*equal contribution) <br>
+The Fourteenth International Conference on Learning Representations (ICLR) 2026
+
+
+
 - [Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
   Maodong Li\*, **Jiying Zhang**\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
   <a href="https://huggingface.co/datasets/SZBL-IDEA/MD">[data\&code]</a>
   <a href="https://aimm.szbl.ac.cn/database/ddd/">[homepage]</a>
   
-- [BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642) <br>
-Bin Feng\*, **Jiying Zhang**\*, Xinni Zhang, Zijing Liu, Yu Li (\*equal contribution) <br>
+
 
 - [SubGDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning](https://arxiv.org/abs/2405.05665) <br>
   **Jiying Zhang**, Zijing Liu, Yu Wang, Feng Bin, Yu Li <br>
@@ -93,5 +103,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing: NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
+- Conference Reviewing: ICLR-2026, ICML-2026, CVPR-2026, AAAI2026, NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
 - Journal Reviewing: TPAMI, TBD.
