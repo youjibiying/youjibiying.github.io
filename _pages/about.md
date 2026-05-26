@@ -15,6 +15,8 @@ Prior to that, I received my master's degree from [Tsinghua University](https://
 My research interests focus on, but are not limited to, generative models and graph neural networks. These days, I am interested in protein design and molecular dynamics. 
 Feel free to contact me if you are interested in my research.
 
+`[We are currently recruiting research interns for the AI4Drug project at EPFL. If you're interested, please email me directly.]`
+
 <!---I was extremely fortunate to have many wonderful mentors in my graduate years. I had a wonderful research internship with [Yatao Bian](https://yataobian.com/) in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index).--->
 
 Publications
@@ -103,5 +105,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing: ICLR-2026, ICML-2026, CVPR-2026, AAAI2026, NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
+- Conference Reviewing: NeurIPS 2026, ICML-2026 workshop AI for Physics, ICLR-2026, ICML-2026, CVPR-2026, AAAI-2026, NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
 - Journal Reviewing: TPAMI, TBD.
