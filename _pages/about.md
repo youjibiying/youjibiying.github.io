@@ -24,6 +24,12 @@ Publications
 
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 
+
+Scaling antibody language models improves structure aware representation for antibody engineering
+- [Scaling Antibody Language Models Improves Structure Aware Representation for Antibody Engineering](https://www.nature.com/articles/s42003-026-10283-z) <br>
+Shengyuan Bai, Zijing Liu, Feng, Bin, **Jiying Zhang**, Yu Li. <br>
+Nature Communications Biology 2026
+
 - [Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space](https://openreview.net/pdf?id=AwowReRWXI) <br>
 Aditya Sengar, **Jiying Zhang**, Pierre Vandergheynst, Patrick Barth <br>
 The Fourteenth International Conference on Learning Representations (ICLR) 2026
