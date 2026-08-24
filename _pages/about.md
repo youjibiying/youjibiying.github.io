@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am a first-year Ph.D student at [EPFL](https://www.epfl.ch/en/), co-advised by [Prof. Patrick Barth](https://people.epfl.ch/patrick.barth?lang=en) and [Prof. Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst). I also serve as an Assistant Researcher at [IDEA](https://www.idea.edu.cn/).
+I am a second-year Ph.D candidate at [EPFL](https://www.epfl.ch/en/), co-advised by [Prof. Patrick Barth](https://people.epfl.ch/patrick.barth?lang=en) and [Prof. Pierre Vandergheynst](https://people.epfl.ch/pierre.vandergheynst), funded by the EPFL AI Center and Swiss AI PhD Fellowship. I also serve as an Assistant Researcher at [IDEA](https://www.idea.edu.cn/).
 Prior to that, I received my master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2023, co-advised by Xi Xiao and Shu-Tao Xia. 
-My research interests focus on, but are not limited to, generative models and graph neural networks. These days, I am interested in protein design and molecular dynamics. 
+My research interests focus on, but are not limited to, generative models and AI4Drug. These days, I am interested in binder design and protein dynamics. 
 Feel free to contact me if you are interested in my research.
 
 `[We are currently recruiting research interns for the AI4Drug project at EPFL. If you're interested, please email me directly.]`
@@ -24,8 +24,16 @@ Publications
 
 Check the full list [here](https://scholar.google.com/citations?user=j90eZ0MAAAAJ&hl).
 
+- [All-Atom GPCR-Ligand Dynamics Simulation via a Residual Isometric Latent Flow Model](https://openreview.net/pdf?id=mj8mObjC9c) <br>
+**Jiying Zhang**, Shuhao Zhang, Pierre Vandergheynst, Patrick Barth. <br> 
+  ICML 2026 AI4Science Workshop
 
-Scaling antibody language models improves structure aware representation for antibody engineering
+- [Physically Grounded Generative Modeling of All-Atom Biomolecular Dynamics](https://www.biorxiv.org/content/10.64898/2026.02.15.705956v2.full.pdf) <br>
+Feng, Bin, **Jiying Zhang**, Xinni Zhang, He Cao, Ming Zhang, Patrick Barth, Zijing Liu, and Yu Li. <br>
+  <a href="https://github.com/IDEA-XL/BioKinema">[code]</a>
+Under Review
+
+
 - [Scaling Antibody Language Models Improves Structure Aware Representation for Antibody Engineering](https://www.nature.com/articles/s42003-026-10283-z) <br>
 Shengyuan Bai, Zijing Liu, Feng, Bin, **Jiying Zhang**, Yu Li. <br>
 Nature Communications Biology 2026
@@ -40,8 +48,8 @@ The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 
 
-- [Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
-  Maodong Li\*, **Jiying Zhang**\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
+- [A Novel 4-D Dataset Paradigm for Studying Complete Ligand-Protein Dissociation Dynamics](https://arxiv.org/abs/2504.18367) <br>
+  Maodong Li\*, **Jiying Zhang**\*, Z. Wang\*, Bin Feng, Wenqi Zeng, Dechin Chen, Zhijun Pan, Yu Li, Zijing Liu, Yi Isaac Yang (\*equal contribution) <br>
   <a href="https://huggingface.co/datasets/SZBL-IDEA/MD">[data\&code]</a>
   <a href="https://aimm.szbl.ac.cn/database/ddd/">[homepage]</a>
   
@@ -111,5 +119,5 @@ Research Experience
 Services
 ------
 
-- Conference Reviewing: NeurIPS 2026, ICML-2026 workshop AI for Physics, ICLR-2026, ICML-2026, CVPR-2026, AAAI-2026, NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, ICASSP-2023,2024.
-- Journal Reviewing: TPAMI, TBD.
+- Conference Reviewing: AAAI2026, NeurIPS 2026, ICML-2026 workshop AI for Physics, ICLR-2026, ICML-2026, CVPR-2026, AAAI-2026, NeurIPS-2025 workshop AI for Science, NeurIPS-2025, NeurIPS-2024, NeurIPS-2023, NeurIPS 2023 Workshop Diffusion, NeurIPS-2022, ICML-2022, ICML-2023, ICML-2024, ICML2025, ICLR-2024, ICLR-2025, CVPR-2024, ACMMM-2024, AAAI-2024, AAAI-2025, AISTATS-2025, AISTATS-2026, BIBM-2024, BIBM-2025, BIBM-2026, ICASSP-2023,2024.
+- Journal Reviewing: TPAMI, TBD. TMLR
